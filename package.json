@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "graphql-yoga": "^1.14.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
   }
 }
